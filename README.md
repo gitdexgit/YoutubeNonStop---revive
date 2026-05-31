@@ -1,3 +1,18 @@
+Currently it's not working as of 
+
+31/05/2026
+Sun, 31, May
+16:17
+
+and so we try to make it work again when I have time in the future. This was put in ~/work/idea.md
+
+
+----
+
+
+
+
+
 # Youtube NonStop
 ![YouTube NonStop Logo](https://github.com/lawfx/YoutubeNonStop/blob/master/images/yns128.png)
 
